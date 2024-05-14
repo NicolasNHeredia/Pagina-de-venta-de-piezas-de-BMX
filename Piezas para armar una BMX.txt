@@ -1,0 +1,12 @@
+manubrios                                                cuadros
+stems                                                    palancas
+manoplas                                                 pedales
+jdd                                                      coronas
+horquillas                                               cadenas
+cubiertas                                                mazas
+rayos                                                    traseras
+mazas                                                    cubiertas para la rueda de atrás
+aros                                                     aros traseros
+rayos
+poste
+asiento
