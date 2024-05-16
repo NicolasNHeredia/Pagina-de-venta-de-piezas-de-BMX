@@ -1,0 +1,12 @@
+manubrios   $50000                                       cuadros
+stems       $20000                                       palancas
+manoplas    $8000                                        pedales
+jdd         $5000                                        coronas
+horquillas  $90000                                       cadenas
+cubiertas   $60000                                       mazas
+rayos       $7000                                        traseras
+mazas       $45000                                       cubiertas para la rueda de atrás
+aros                                                     aros traseros
+rayos
+poste
+asiento
